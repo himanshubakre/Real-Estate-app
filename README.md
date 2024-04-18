@@ -1,3 +1,4 @@
+![image](https://github.com/himanshubakre/Real-Estate-app/assets/139998522/81b7113c-1e83-4935-895b-092109d0f3f5)
 Developed a full-stack real estate application using the MERN stack (MongoDB, Express.js, React, Node.js) with additional features like real-time chat functionality using Socket.io is a robust undertaking. Here's a breakdown of how you might approach it:
 
     Backend Development (Node.js, Express.js, MongoDB with Prisma):
